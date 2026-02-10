@@ -1,0 +1,77 @@
+# Ayumu Imazu – BANDAGE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Sit up 姿勢正して
+ひねくれた態度じゃ
+不合格です
+不幸中の幸いは
+飽きてしまうわ
+Get up 目を覚まして
+いい加減な言いなりに
+黙ってうなづいてちゃ
+No no no 伸び代がないわ
+I got 123456 things on my mind
+思考一向にまとまんない
+What do I do
+Running I'm running away
+追いかけるyesterday
+決める覚悟
+迷いは捨て
+'Cause it's gonna hurt more
+The longer you wait
+駆け引きなんていらない
+Say whatcha wanna say
+憂鬱なマンデー
+気分はブルー
+痛みを噛んで
+削ぎ剥がす
+古びたBANDAGEいらない
+Do whatcha wanna do
+Man up 情けないね
+言い訳ばかりConversationもう勘弁
+つまづくの恐れちゃ
+どこもいけないわ
+Stand up 世は罠だらけ
+歯を見せれば見させられるNightmare?
+無感情になれるなら
+教えて頂戴
+Tell me ABCDEFG 正解のライン
+言葉選び出せない
+What do I do
+Finding I'm finding a way
+追いかけるOne more day
+決める覚悟
+迷いは捨て
+'Cause it's gonna hurt more
+The longer you wait
+駆け引きなんていらない
+Say whatcha wanna say
+憂鬱なマンデー
+気分はブルー
+痛みを噛んで
+削ぎ剥がす
+古びたBANDAGEいらない
+Do whatcha wanna do
+また見て見ぬふりの繰り返し
+ズタボロな心を
+誰かのせいばかりしたって
+何も変わりはしないの
+負った傷口も瘡蓋に
+いつかは剥がれ落ちて
+Sorry not so sorry 選んだStory
+自分次第でしょ
+決める覚悟
+迷いは捨て
+'Cause it's gonna hurt more
+The longer you wait
+駆け引きなんていらない
+Say whatcha wanna say
+憂鬱なマンデー
+気分はブルー
+痛みを噛んで
+削ぎ剥がす
+古びたBANDAGEいらない
+Do whatcha wanna do
+```
