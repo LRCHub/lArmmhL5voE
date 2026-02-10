@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "BANDAGE",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2026-02-10T11:46:04.108313Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bandage - Hikigatari Version",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/01_Bandage_-_Hikigatari_Version_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bandage - Hikigatari Version",
+      "artist": "Sayuri",
+      "has_synced": false,
+      "path": "select/02_Bandage_-_Hikigatari_Version_Sayuri.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ผ้าพันแผล - Bandage",
+      "artist": "NONT TANONT",
+      "has_synced": true,
+      "path": "select/03_ผ้าพันแผล_-_Bandage_NONT_TANONT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bandage for Promise",
+      "artist": "36 Crazyfists",
+      "has_synced": true,
+      "path": "select/04_Bandage_for_Promise_36_Crazyfists.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bandage",
+      "artist": "Night Lovell",
+      "has_synced": true,
+      "path": "select/05_Bandage_Night_Lovell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BANDAGE-弾き語りver.-",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/06_BANDAGE-弾き語りver.-_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BANDAGE -弾き語りver.-",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/07_BANDAGE_-弾き語りver.-_さユり.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BANDAGE -Hikigatari ver.-",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/08_BANDAGE_-Hikigatari_ver.-_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "bandage ##",
+      "artist": "I9bonsai",
+      "has_synced": false,
+      "path": "select/09_bandage_I9bonsai.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BANDAGE",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/10_BANDAGE_Ayumu_Imazu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bandage Heartz",
+      "artist": "Hardrock",
+      "has_synced": true,
+      "path": "select/11_Bandage_Heartz_Hardrock.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bandage",
+      "artist": "WayV",
+      "has_synced": false,
+      "path": "select/12_Bandage_WayV.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BANDAGE - Self Accompanied ver.",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/13_BANDAGE_-_Self_Accompanied_ver._さユり.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BANDAGE - Self Accompanied ver.",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/14_BANDAGE_-_Self_Accompanied_ver._Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bandage - Hikigatari Version",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/15_Bandage_-_Hikigatari_Version_さユり.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BANDAGE-弾き語りver.- - Bandage - Hikigatari Version",
+      "artist": "SAYURI",
+      "has_synced": true,
+      "path": "select/16_BANDAGE-弾き語りver.-_-_Bandage_-_Hikigatari_Version_SAYURI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "BANDAGE -弾き語りver.-",
+      "artist": "さゆり",
+      "has_synced": true,
+      "path": "select/17_BANDAGE_-弾き語りver.-_さゆり.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Bandage and the Wound",
+      "artist": "Gabe Goodman",
+      "has_synced": true,
+      "path": "select/18_The_Bandage_and_the_Wound_Gabe_Goodman.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "When I Was A Bandage",
+      "artist": "John Ralston",
+      "has_synced": false,
+      "path": "select/19_When_I_Was_A_Bandage_John_Ralston.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BANDAGE",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_BANDAGE_Ayumu_Imazu.txt"
+    }
+  ]
+}
